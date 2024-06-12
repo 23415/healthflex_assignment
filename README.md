@@ -15,7 +15,7 @@ This is a simplified backend system for a Twitter-like application built using N
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/twitter-backend.git
+   git clone https://github.com/23415/healthflex_assignment.git
    cd twitter-backend
 
 ### install dependencies
